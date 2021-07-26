@@ -1,0 +1,4 @@
+/* Behavior of the scroll fluid possible*/
+html {
+    scroll-behavior: smooth;
+}
