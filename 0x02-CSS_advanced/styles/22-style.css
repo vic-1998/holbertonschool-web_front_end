@@ -43,7 +43,6 @@ a:active {
     color: var(--color-primary);
 }
 
-/* set the padding on all 4 sides to section-padding */
 .section {
     padding: var(--section-padding);
 }
@@ -53,13 +52,10 @@ a:active {
     padding: var(--section-header-padding);
 }
 
-/* pad all 4 sides with section-body-padding */
 .section-body {
     padding: var(--section-body-padding);
 }
 
-/* pad all 4 sides with section-footer-padding
-and set the horizontal alignment with section-footer-align */
 .section-footer {
     padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
@@ -101,8 +97,6 @@ ul.row {
     width: 50%;
 }
 
-
-/* Select all classes that start with col- */
 [class^="col-"] {
     float: left;
     padding: 0.5rem;
@@ -115,8 +109,6 @@ ul.row {
     background: var(--color-black);
 }
 
-/* wide and evenly distribute the margins
- on both the left and and right side */
 .container {
     width: 960px;
     margin-left: auto;
@@ -148,9 +140,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: var(--nav-item-margin);
 }
 
-/* If the padding property has two values:
-top and bottom are 0.5rem
-right and left are 1rem */
 .nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
@@ -209,7 +198,6 @@ right and left are 1rem */
     text-align: right;
 }
 
-/* pad all 4 sides of the selected element with footer-padding */
 .footer {
     padding: var(--footer-padding);
 }
