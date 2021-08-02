@@ -1,0 +1,10 @@
+/* You must use @import */
+/* You must use @each statement */
+
+@import '11-photos.scss';
+
+@each $var-name in $list-names {
+    .photo-#{$var-name} {
+        background-color: image-url("photos/#{$var-name}.jpg") no-repeat;
+    }
+}
