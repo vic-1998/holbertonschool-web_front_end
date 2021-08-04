@@ -23,5 +23,5 @@ Use the starter HTML and CSS files from this task to task 10. Copy the contents 
 ### CSS starter file
 ##### starter-styles.css
 
-#### Twitter: [Jorge Chaux Jr](https://twitter.com/jorgechauxjr)
+#### Github: [Victot Manuel Plaza](https://github.com/vic-1998)
 
